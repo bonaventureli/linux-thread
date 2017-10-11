@@ -1,0 +1,1 @@
+/usr/bin/cc   -rdynamic CMakeFiles/thread_init.dir/thread_init.c.o  -o thread_init -lpthread 

@@ -1,0 +1,1 @@
+/usr/bin/cc   -rdynamic CMakeFiles/thread_exit.dir/thread_exit.c.o  -o thread_exit -lpthread 

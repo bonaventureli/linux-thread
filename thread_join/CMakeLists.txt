@@ -1,0 +1,5 @@
+project(thread_join)
+cmake_minimum_required(VERSION 2.8)
+set (LIB pthread)
+add_executable(thread_join thread_join.c)
+target_link_libraries(thread_join ${LIB})

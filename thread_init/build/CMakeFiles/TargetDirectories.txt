@@ -1,0 +1,3 @@
+/home/andy/linux_thread/thread_init/build/CMakeFiles/edit_cache.dir
+/home/andy/linux_thread/thread_init/build/CMakeFiles/rebuild_cache.dir
+/home/andy/linux_thread/thread_init/build/CMakeFiles/thread_init.dir

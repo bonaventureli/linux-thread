@@ -1,0 +1,5 @@
+project(thread_exit)
+cmake_minimum_required(VERSION 2.8)
+set (LIB pthread)
+add_executable(thread_exit thread_exit.c)
+target_link_libraries(thread_exit ${LIB})
