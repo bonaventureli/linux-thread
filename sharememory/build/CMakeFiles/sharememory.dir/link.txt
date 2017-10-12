@@ -1,0 +1,1 @@
+/usr/bin/cc   -rdynamic CMakeFiles/sharememory.dir/shmemory.c.o  -o sharememory 
