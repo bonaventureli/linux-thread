@@ -1,0 +1,3 @@
+/home/andy/linux_thread/sigaddset/build/CMakeFiles/rebuild_cache.dir
+/home/andy/linux_thread/sigaddset/build/CMakeFiles/edit_cache.dir
+/home/andy/linux_thread/sigaddset/build/CMakeFiles/sigaddset.dir
